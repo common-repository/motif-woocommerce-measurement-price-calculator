@@ -1,0 +1,27 @@
+.m_add_rules {
+	float: left;
+    margin: 12px 12px;
+}
+td.m_data2.align-middle, td.m_data3.align-middle, td.m_data4.align-middle  {
+    vertical-align: middle !important;
+}
+#save_range_del {
+	display: none;
+	margin: 24px;
+}
+.square{
+    display: none;
+}
+#woocommerce-product-data ul.product_data_tabs li.motifcal_options a {
+    padding-left: 28px;
+    background-image: url(../images/motif-menu-cion.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    background-position: 6px 13px;
+}
+#woocommerce-product-data ul.product_data_tabs li.motifcal_options a:before {
+	display: none;
+}
+.bootstrap-iso .nav-pills > li.active > a, .bootstrap-iso .nav-pills > li.active > a:hover, .bootstrap-iso .nav-pills > li.active > a:focus {
+    background: green !important;
+}
